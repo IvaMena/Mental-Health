@@ -16,23 +16,23 @@ body{
   z-index: 0;
 }
 .bgimg-1 {
-  background-image: url("file:///C:/Users/Girls%20Who%20Code/Downloads/IRM/Pictures/Memes/animal-crossing-sky-background-5.gif");
+  background-image: url("acc.gif");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("file:///C:/Users/Girls%20Who%20Code/Downloads/IRM/Pictures/Memes/tumblr_mwufcvBROs1qae72so1_500.gif");
+  background-image: url("night.gif");
   left: 15%;
   min-height: 100% ;
 }
 
 .bgimg-3 {
-  background-image: url("purpleballs.GIF");
+  background-image: url("purpleballs.gif");
   min-height: 100%;
 }
 
 .bgimg-4 {
-  background-image: url("file:///C:/Users/Girls%20Who%20Code/Downloads/IRM/Pictures/Memes/giphy%20(3).gif");
+  background-image: url("cyber.gif");
   min-height: 100%;
 }
 
