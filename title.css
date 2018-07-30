@@ -6,16 +6,10 @@ img.one {
  margin-right: auto;
  }
 
- img.avatar {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 30%;
-  width: 30%;
-  }
-
  .center {
      margin: auto;
+     font-size: 16px;
+     height: 35px;
      width: 30%;
      border: 3px;
      padding: 1px;
@@ -24,14 +18,24 @@ img.one {
      background-color: black;
  }
 
+ img.avatar{
+  height: 40%;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  display: block;
+ }
+
  .begin {
   border: 3px;
-  font: bold Grey;
+  font-size: 25px;
   text-align: center;
+  margin: auto;
+  text-align: center;
+  display: block;
  }
 
  .begin a:hover {
   border: 3px solid SlateBlue;
-  font: bold Grey;
   text-align: center;
 }
