@@ -16,14 +16,14 @@ body{
   z-index: 0;
 }
 .bgimg-1 {
-  background-image: url("acc.gif");
+  background-image: url("luf.gif");
   min-height: 100%;
 }
 
 /* purpleballs.gif */
 
 .bgimg-2 {
-  background-image: url("eck.gif"); 
+  background-image: url("huh.gif"); 
   left: 15%;
   min-height: 100% ;
 }
