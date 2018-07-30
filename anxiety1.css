@@ -6,7 +6,7 @@ body{
 }
 
 /* the code below is used for the parallax scrolling effect */
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7{
   position: relative;
   opacity: 0.90;
   background-attachment: fixed;
@@ -23,7 +23,7 @@ body{
 /* purpleballs.gif */
 
 .bgimg-2 {
-  background-image: url("huh.gif"); 
+  background-image: url("huh.gif");
   left: 15%;
   min-height: 100% ;
 }
@@ -35,6 +35,21 @@ body{
 
 .bgimg-4 {
   background-image: url("cyber.gif");
+  min-height: 100%;
+}
+
+.bgimg-5 {
+  background-image: url("purpleballs.gif");
+  min-height: 100%;
+}
+
+.bgimg-6 {
+  background-image: url("blues.gif");
+  min-height: 100%;
+}
+
+.bgimg-7 {
+  background-image: url("lef.gif");
   min-height: 100%;
 }
 
