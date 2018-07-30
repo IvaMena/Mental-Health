@@ -21,13 +21,13 @@ body{
 }
 
 .bgimg-2 {
-  background-image: url("night.gif");
+  background-image: url("purpleballs.gif"); 
   left: 15%;
   min-height: 100% ;
 }
 
 .bgimg-3 {
-  background-image: url("purpleballs.gif");
+  background-image: url("night.gif");
   min-height: 100%;
 }
 
