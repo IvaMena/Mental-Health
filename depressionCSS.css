@@ -2,12 +2,25 @@
 
 body {
   height: 100%;
-  margin: 0;
+  margin: 20px;
   font: 400 15px/1.8 "Lato", sans-serif;
   color: #777;
 }
 
 
+.button{
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
 
 .caption {
   position: absolute;
@@ -86,6 +99,39 @@ h3 {
     .bgimg-1, .bgimg-2, .bgimg-3 {
         background-attachment: scroll;
     }
+}
+
+#floatie {
+    position: fixed;
+    bottom: 10%;
+    right: 590px;
+    z-index: 2;
+}
+
+img {
+    height: auto;
+}
+img[Attributes Style] {
+    width: 200px;
+}
+
+#myBtn {
+  position: fixed;
+  bottom: 10%;
+  right: 590px;
+  z-index: 2;
+  /* font-size: 18px;
+  border: none;
+  outline: none; */
+  /* background-color: red;
+  color: white; */
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
 }
 
 
