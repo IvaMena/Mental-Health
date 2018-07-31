@@ -6,7 +6,7 @@ body{
 }
 
 /* the code below is used for the parallax scrolling effect */
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7{
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12{
   position: relative;
   opacity: 0.90;
   background-attachment: fixed;
@@ -49,7 +49,32 @@ body{
 }
 
 .bgimg-7 {
-  background-image: url("watt.gif");
+  background-image: url("emerald.gif");
+  min-height: 100%;
+}
+
+.bgimg-8 {
+  background-image: url("giphy.gif");
+  min-height: 100%;
+}
+
+.bgimg-9 {
+  background-image: url("acc.gif");
+  min-height: 100%;
+}
+
+.bgimg-10 {
+  background-image: url("lef.gif");
+  min-height: 100%;
+}
+
+.bgimg-11 {
+  background-image: url("street.gif");
+  min-height: 100%;
+}
+
+.bgimg-12 {
+  background-image: url("nsky.gif");
   min-height: 100%;
 }
 
