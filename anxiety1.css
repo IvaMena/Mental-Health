@@ -132,8 +132,8 @@ h3 {
 /* The items below are used to program the avtar button */
 #floatie {
     position: fixed;
-    bottom: 10%;
-    right: 590px;
+    bottom: 26px;
+    right: 20px;
     z-index: 2;
 }
 
