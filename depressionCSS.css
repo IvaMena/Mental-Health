@@ -9,8 +9,9 @@ body {
 
 
 .button{
-  border-radius: 4px;
-  background-color: #f4511e;
+  display: inline-block;
+  border-radius: 200px;
+  background-color: #f4811e;
   border: none;
   color: #FFFFFF;
   text-align: center;
@@ -102,6 +103,7 @@ h3 {
 }
 
 #floatie {
+    display: inline-block;
     position: fixed;
     bottom: 10%;
     right: 590px;
