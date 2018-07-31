@@ -16,7 +16,7 @@ body{
   z-index: 0;
 }
 .bgimg-1 {
-  background-image: url("luf.gif");
+  background-image: url("purpleballs.gif");
   min-height: 100%;
 }
 
@@ -39,7 +39,7 @@ body{
 }
 
 .bgimg-5 {
-  background-image: url("purpleballs.gif");
+  background-image: url("luf.gif");
   min-height: 100%;
 }
 
@@ -49,7 +49,7 @@ body{
 }
 
 .bgimg-7 {
-  background-image: url("lef.gif");
+  background-image: url("watt.gif");
   min-height: 100%;
 }
 
