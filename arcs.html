@@ -2,15 +2,46 @@
 <!DOCTYPE html>
 
 <html lang = "en">
+<head>
 <!--script src = ".js"></script-->
 <link rel="stylesheet" href = "title.css">
+</head>
+<body>
+  <style>
+  html{
+    background: url("swirl.gif")no-repeat center fixed;
+    background-size: cover;
+    background-color: pink;
+    }
 
+    body{
+      color: white;
+    }
+
+    .caption {
+      position: absolute;
+      left: 0;
+      top: 90%;
+      width: 100%;
+    }
+
+    .caption span.border {
+      background-color: white;
+      color: #fff;
+      padding: 18px;
+      font-size: 25px;
+      letter-spacing: 10px;
+    }
+
+    h3 {
+      position: relative;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      font: 20px "Lato", sans-serif;
+    }
+  </style>
     <div>
      <h1><p>Choose a Disorder Arc: </p></h1>
-    </div>
-
-    <div class = "begin">
-     <p><a href="anxiety1.html">Anxiety <a href="depressionLVL1.html">Depression</p>
     </div>
 
    <div>
@@ -21,8 +52,20 @@
     <p></p>
    </div>
 
-   <div class = "begin">
-    <p><a href="javascript:void(0)">Psychotic <a href="javascript:void(0)">Personality</p>
+   <div class="caption" style="top:20%; left: 20%; width: 1000px">
+       <span class="border"><a href="anxiety1.html">Anxiety</a></span>
+   </div>
+
+   <div class="caption" style="top:20%; left: 65%; width: 1000px">
+      <span class="border"><a href="depressionLVL1.html">Depression</a></span>
+   </div>
+
+   <div class="caption" style="top:100%; left: 20%; width: 1000px">
+       <span class="border"><a href="javascript:void(0)">Psychotic</a></span>
+   </div>
+
+   <div class="caption" style="top:100%; left: 65%; width: 1000px">
+      <span class="border"><a href="javascript:void(0)">Personality</a></span>
    </div>
 
 </body>
