@@ -6,7 +6,7 @@ body{
 }
 
 /* the code below is used for the parallax scrolling effect */
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12{
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16{
   position: relative;
   opacity: 0.90;
   background-attachment: fixed;
@@ -75,6 +75,26 @@ body{
 
 .bgimg-12 {
   background-image: url("nsky.gif");
+  min-height: 100%;
+}
+
+.bgimg-13 {
+  background-image: url("iinteam2.png");
+  min-height: 100%;
+}
+
+.bgimg-14 {
+  background-image: url("why.jpg");
+  min-height: 100%;
+}
+
+.bgimg-15 {
+  background-image: url("concept_art.jpg");
+  min-height: 100%;
+}
+
+.bgimg-16 {
+  background-image: url("okami.jpg");
   min-height: 100%;
 }
 
